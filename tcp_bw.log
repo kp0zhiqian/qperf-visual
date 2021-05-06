@@ -1,0 +1,85 @@
+tcp_bw:
+    bw        =  19.6 Mb/sec
+    msg_size  =     1 bytes
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  37.8 Mb/sec
+    msg_size  =     2 bytes
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  79.9 Mb/sec
+    msg_size  =     4 bytes
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  159 Mb/sec
+    msg_size  =    8 bytes
+    time      =    2 sec
+    timeout   =    5 sec
+tcp_bw:
+    bw        =  310 Mb/sec
+    msg_size  =   16 bytes
+    time      =    2 sec
+    timeout   =    5 sec
+tcp_bw:
+    bw        =  615 Mb/sec
+    msg_size  =   32 bytes
+    time      =    2 sec
+    timeout   =    5 sec
+tcp_bw:
+    bw        =  1.18 Gb/sec
+    msg_size  =    64 bytes
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  2.16 Gb/sec
+    msg_size  =   128 bytes
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  4.07 Gb/sec
+    msg_size  =   256 bytes
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  6.6 Gb/sec
+    msg_size  =  512 bytes
+    time      =    2 sec
+    timeout   =    5 sec
+tcp_bw:
+    bw        =  10.3 Gb/sec
+    msg_size  =     1 KiB (1,024)
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  11.9 Gb/sec
+    msg_size  =     2 KiB (2,048)
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  22.5 Gb/sec
+    msg_size  =     4 KiB (4,096)
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  15.9 Gb/sec
+    msg_size  =     8 KiB (8,192)
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  18.1 Gb/sec
+    msg_size  =    16 KiB (16,384)
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  19.1 Gb/sec
+    msg_size  =    32 KiB (32,768)
+    time      =     2 sec
+    timeout   =     5 sec
+tcp_bw:
+    bw        =  18.7 Gb/sec
+    msg_size  =    64 KiB (65,536)
+    time      =     2 sec
+    timeout   =     5 sec
